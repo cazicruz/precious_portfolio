@@ -155,16 +155,16 @@ header {
 }
 
 .home-img {
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     background-color: #98a7fc;
     overflow: hidden;
-    margin-bottom: 2rem;
-    background-image: url('./asset/OD4.png') ;
+    margin-bottom: 1rem;
+    background-image: url('./asset/po5.jpg') ;
     background-size: cover;
     background-position: center;
     /* object-fit: contain;
